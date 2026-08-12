@@ -1,2 +1,7 @@
-# employee-performance-dashboard
-SQL &amp; Power BI project for evaluating contact center employee performance through a custom KPI classification model and interactive dashboards.
+# Система оценки эффективности сотрудников клиентской поддержки
+Проект по разработке аналитического решения для оценки эффективности сотрудников клиентской поддержки. Система использует выполнение KPI и динамику показателей для оценки результатов сотрудников и их классификации по типам эффективности. Расчеты реализованы в SQL, результаты представлены в интерактивном отчете Power BI.
+\*\*Роль:\*\* Data Analyst / BI Analyst / Business Analyst
+\*\*Стек:\*\* SQLite • Power BI 
+\*\*Статус:\*\* Завершен
+\---
+
