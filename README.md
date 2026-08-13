@@ -66,10 +66,6 @@
   <img src="./images/3_development_process.png" alt="Этапы разработки проекта" style="width:500px;"></img>
 </p>
 
-![Этапы разработки проекта](./images/test.png)
-
-![Этапы разработки проекта](./images/test2.png)
-
 \---
 
 
