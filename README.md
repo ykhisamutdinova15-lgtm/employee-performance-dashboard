@@ -62,7 +62,7 @@
 \---
 
 ##### **## ⚙️Рабочий процесс проекта**
-![Этапы разработки проекта](images/3_development_process.png)
+![Этапы разработки проекта](./images/3_development_process.png)
 
 \---
 
