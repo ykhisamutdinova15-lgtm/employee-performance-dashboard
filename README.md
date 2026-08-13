@@ -63,6 +63,7 @@
 
 ##### **## ⚙️Рабочий процесс проекта**
 ![Этапы разработки проекта](./images/3_development_process.png)
+<img src="./images/3_development_process.png alt="Этапы разработки проекта" width=500px></img>
 
 ![Этапы разработки проекта](./images/test.png)
 
