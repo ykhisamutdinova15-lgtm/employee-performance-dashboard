@@ -201,7 +201,3 @@ employee-performance-report/
 │
 ├── LICENSE
 └── README.md
-
-
-
-
