@@ -179,7 +179,7 @@ SQL-скрипт может быть воспроизведен на предо�
 
 \---
 
-## ** ## 📁 Структура репозитория:
+## **## 📁 Структура репозитория:
 
 ```text
 employee-performance-report/
@@ -201,8 +201,6 @@ employee-performance-report/
 │
 ├── LICENSE
 └── README.md
-
-\---
 
 
 
