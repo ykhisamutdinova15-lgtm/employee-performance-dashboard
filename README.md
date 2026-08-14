@@ -182,33 +182,23 @@ SQL-скрипт может быть воспроизведен на предо�
 ## ** ## 📁 Структура репозитория:
 
 employee-performance-report/
-
 │
-
 ├── data/
-
-|   ├── Results.csv
-
-|   └── Targets.csv
-
+│   ├── Results.csv
+│   └── Targets.csv
+│
 ├── images/
-
 │   ├── 1_report_overview.png
-
 │   ├── 2_report_details.png
-
 │   └── 3_development_process.png
-
+│
 ├── power_bi/
-
-|   └── employee_performance_report.pbix
-
+│   └── employee_performance_report.pbix
+│
 ├── sql/
-
-|   └── employee_performance.sql
-
+│   └── employee_performance.sql
+│
 ├── LICENSE
-
 └── README.md
 
 \---
